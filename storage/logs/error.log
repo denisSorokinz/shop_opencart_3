@@ -1,0 +1,379 @@
+2020-11-25 18:16:54 - PHP Warning:  mysqli::__construct(): (HY000/1049): Unknown database 'denis_shop' in D:\WinNMP\WWW\system\library\db\mysqli.php on line 7
+2020-11-25 18:16:54 - PHP Warning:  DB\MySQLi::__construct(): Couldn't fetch mysqli in D:\WinNMP\WWW\system\library\db\mysqli.php on line 10
+2020-11-25 18:16:54 - PHP Warning:  DB\MySQLi::__construct(): Couldn't fetch mysqli in D:\WinNMP\WWW\system\library\db\mysqli.php on line 10
+2020-11-25 18:16:54 - PHP Notice:  Undefined variable: mysql in D:\WinNMP\WWW\install\controller\install\step_3.php on line 295
+2020-11-25 18:16:54 - PHP Notice:  Trying to get property 'connect_error' of non-object in D:\WinNMP\WWW\install\controller\install\step_3.php on line 295
+2020-11-25 18:17:20 - PHP Warning:  mysqli::__construct(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: YES) in D:\WinNMP\WWW\system\library\db\mysqli.php on line 7
+2020-11-25 18:17:20 - PHP Warning:  DB\MySQLi::__construct(): Couldn't fetch mysqli in D:\WinNMP\WWW\system\library\db\mysqli.php on line 10
+2020-11-25 18:17:20 - PHP Warning:  DB\MySQLi::__construct(): Couldn't fetch mysqli in D:\WinNMP\WWW\system\library\db\mysqli.php on line 10
+2020-11-25 18:17:20 - PHP Notice:  Undefined variable: mysql in D:\WinNMP\WWW\install\controller\install\step_3.php on line 295
+2020-11-25 18:17:20 - PHP Notice:  Trying to get property 'connect_error' of non-object in D:\WinNMP\WWW\install\controller\install\step_3.php on line 295
+2020-11-25 18:19:34 - PHP Warning:  mysqli::query(): MySQL server has gone away in D:\WinNMP\WWW\system\library\db\mysqli.php on line 18
+2020-11-25 18:19:34 - PHP Warning:  mysqli::query(): Error reading result set's header in D:\WinNMP\WWW\system\library\db\mysqli.php on line 18
+2020-11-25 19:38:24 - PHP Warning:  unlink(D:/WinNMP/WWW/system/storage/cache/cache.catalog.language.1606336703): No such file or directory in D:\WinNMP\WWW\system\library\cache\file.php on line 68
+2020-11-26 19:09:07 - PHP Warning:  unlink(D:/WinNMP/WWW/system/storage/cache/cache.admin.language.1606336292): No such file or directory in D:\WinNMP\WWW\system\library\cache\file.php on line 17
+2020-11-26 19:09:07 - PHP Warning:  unlink(D:/WinNMP/WWW/system/storage/cache/cache.geo_zone.1606336431): No such file or directory in D:\WinNMP\WWW\system\library\cache\file.php on line 17
+2020-11-26 19:09:07 - PHP Warning:  unlink(D:/WinNMP/WWW/system/storage/cache/cache.information.3.1606334415): No such file or directory in D:\WinNMP\WWW\system\library\cache\file.php on line 17
+2020-11-26 19:09:07 - PHP Warning:  unlink(D:/WinNMP/WWW/system/storage/cache/cache.length_class.3.1606334415): No such file or directory in D:\WinNMP\WWW\system\library\cache\file.php on line 17
+2020-11-26 19:09:07 - PHP Warning:  unlink(D:/WinNMP/WWW/system/storage/cache/cache.order_status.3.1606334415): No such file or directory in D:\WinNMP\WWW\system\library\cache\file.php on line 17
+2020-11-26 19:09:07 - PHP Warning:  unlink(D:/WinNMP/WWW/system/storage/cache/cache.product.bestseller.1.0.1.11.1606333904): No such file or directory in D:\WinNMP\WWW\system\library\cache\file.php on line 17
+2020-11-26 19:09:07 - PHP Warning:  unlink(D:/WinNMP/WWW/system/storage/cache/cache.product.latest.1.0.1.11.1606333903): Permission denied in D:\WinNMP\WWW\system\library\cache\file.php on line 17
+2020-11-26 19:09:08 - PHP Warning:  Cannot modify header information - headers already sent by (output started at D:\WinNMP\WWW\system\framework.php:43) in D:\WinNMP\WWW\catalog\controller\startup\session.php on line 25
+2020-11-26 19:09:08 - PHP Warning:  Cannot modify header information - headers already sent by (output started at D:\WinNMP\WWW\system\framework.php:43) in D:\WinNMP\WWW\catalog\controller\startup\session.php on line 25
+2020-11-26 19:09:08 - PHP Warning:  Cannot modify header information - headers already sent by (output started at D:\WinNMP\WWW\system\framework.php:43) in D:\WinNMP\WWW\system\storage\modification\catalog\controller\startup\startup.php on line 99
+2020-11-26 19:09:08 - PHP Warning:  Cannot modify header information - headers already sent by (output started at D:\WinNMP\WWW\system\framework.php:43) in D:\WinNMP\WWW\system\storage\modification\catalog\controller\startup\startup.php on line 157
+2020-11-26 19:09:12 - PHP Notice:  Undefined offset: 3 in D:\WinNMP\WWW\catalog\controller\extension\module\tvcmstabproducts.php on line 63
+2020-11-26 19:09:12 - PHP Notice:  Undefined offset: 3 in D:\WinNMP\WWW\catalog\controller\extension\module\tvcmstabproducts.php on line 66
+2020-11-26 19:09:12 - PHP Notice:  Undefined offset: 3 in D:\WinNMP\WWW\catalog\controller\extension\module\tvcmstabproducts.php on line 82
+2020-11-26 19:09:12 - PHP Notice:  Undefined offset: 3 in D:\WinNMP\WWW\catalog\controller\extension\module\tvcmstabproducts.php on line 97
+2020-11-26 19:09:12 - PHP Notice:  Undefined offset: 3 in D:\WinNMP\WWW\catalog\controller\extension\module\tvcmstabproducts.php on line 100
+2020-11-26 19:09:12 - PHP Notice:  Undefined offset: 3 in D:\WinNMP\WWW\catalog\controller\extension\module\tvcmstabproducts.php on line 115
+2020-11-26 19:09:12 - PHP Notice:  Undefined offset: 3 in D:\WinNMP\WWW\catalog\controller\extension\module\tvcmstabproducts.php on line 127
+2020-11-26 19:09:12 - PHP Notice:  Undefined offset: 3 in D:\WinNMP\WWW\catalog\controller\extension\module\tvcmstabproducts.php on line 130
+2020-11-26 19:09:12 - PHP Notice:  Undefined offset: 3 in D:\WinNMP\WWW\catalog\controller\extension\module\tvcmstabproducts.php on line 145
+2020-11-26 19:09:12 - PHP Notice:  Undefined offset: 3 in D:\WinNMP\WWW\catalog\controller\extension\module\tvcmstabproducts.php on line 154
+2020-11-26 19:09:12 - PHP Notice:  Undefined offset: 3 in D:\WinNMP\WWW\catalog\controller\extension\module\tvcmstabproducts.php on line 157
+2020-11-26 19:09:12 - PHP Notice:  Undefined offset: 3 in D:\WinNMP\WWW\catalog\controller\extension\module\tvcmstabproducts.php on line 172
+2020-11-26 19:09:12 - PHP Notice:  Undefined offset: 3 in D:\WinNMP\WWW\catalog\controller\extension\module\tvcmstabproducts.php on line 175
+2020-11-26 19:09:12 - PHP Notice:  Undefined offset: 3 in D:\WinNMP\WWW\catalog\controller\extension\module\tvcmstabproducts.php on line 185
+2020-11-26 19:09:14 - PHP Notice:  Undefined offset: 3 in D:\WinNMP\WWW\catalog\controller\extension\module\tvcmstestimonial.php on line 28
+2020-11-26 19:09:14 - PHP Notice:  Undefined offset: 3 in D:\WinNMP\WWW\catalog\controller\extension\module\tvcmstestimonial.php on line 31
+2020-11-26 19:09:14 - PHP Notice:  Undefined offset: 3 in D:\WinNMP\WWW\system\storage\modification\catalog\controller\extension\module\featured.php on line 24
+2020-11-26 19:09:14 - PHP Notice:  Undefined offset: 3 in D:\WinNMP\WWW\system\storage\modification\catalog\controller\extension\module\featured.php on line 27
+2020-11-26 19:09:15 - PHP Notice:  Undefined offset: 3 in D:\WinNMP\WWW\catalog\controller\extension\module\tvcmsbrandlist.php on line 46
+2020-11-26 19:09:15 - PHP Notice:  Undefined offset: 3 in D:\WinNMP\WWW\catalog\controller\extension\module\tvcmsbrandlist.php on line 46
+2020-11-26 19:09:15 - PHP Notice:  Undefined offset: 3 in D:\WinNMP\WWW\catalog\controller\extension\module\tvcmsbrandlist.php on line 46
+2020-11-26 19:09:15 - PHP Notice:  Undefined offset: 3 in D:\WinNMP\WWW\catalog\controller\extension\module\tvcmsbrandlist.php on line 46
+2020-11-26 19:09:15 - PHP Notice:  Undefined offset: 3 in D:\WinNMP\WWW\catalog\controller\extension\module\tvcmsbrandlist.php on line 46
+2020-11-26 19:09:15 - PHP Notice:  Undefined offset: 3 in D:\WinNMP\WWW\catalog\controller\extension\module\tvcmsbrandlist.php on line 46
+2020-11-26 19:09:15 - PHP Notice:  Undefined offset: 3 in D:\WinNMP\WWW\catalog\controller\extension\module\tvcmsbrandlist.php on line 46
+2020-11-26 19:09:15 - PHP Notice:  Undefined offset: 3 in D:\WinNMP\WWW\catalog\controller\extension\module\tvcmsbrandlist.php on line 46
+2020-11-26 19:09:15 - PHP Notice:  Undefined offset: 3 in D:\WinNMP\WWW\catalog\controller\extension\module\tvcmsblog.php on line 9
+2020-11-26 19:09:15 - PHP Notice:  Undefined offset: 3 in D:\WinNMP\WWW\catalog\controller\extension\module\tvcmsblog.php on line 10
+2020-11-26 19:09:15 - PHP Notice:  Undefined offset: 3 in D:\WinNMP\WWW\catalog\controller\extension\module\tvcmsblog.php on line 11
+2020-11-26 19:09:15 - PHP Notice:  Undefined offset: 3 in D:\WinNMP\WWW\catalog\controller\extension\module\tvcmsspecialproduct.php on line 28
+2020-11-26 19:09:15 - PHP Notice:  Undefined offset: 3 in D:\WinNMP\WWW\catalog\controller\extension\module\tvcmsspecialproduct.php on line 31
+2020-11-26 19:09:16 - PHP Notice:  Undefined offset: 3 in D:\WinNMP\WWW\system\storage\modification\catalog\controller\extension\module\latest.php on line 41
+2020-11-26 19:09:16 - PHP Notice:  Undefined offset: 3 in D:\WinNMP\WWW\system\storage\modification\catalog\controller\extension\module\latest.php on line 44
+2020-11-26 19:09:16 - PHP Notice:  Undefined offset: 3 in D:\WinNMP\WWW\catalog\controller\common\tvcmsfooterlogo.php on line 22
+2020-11-26 19:09:16 - PHP Notice:  Undefined offset: 3 in D:\WinNMP\WWW\catalog\controller\common\tvcmsfooterlogo.php on line 25
+2020-11-26 19:09:17 - PHP Notice:  Undefined offset: 3 in D:\WinNMP\WWW\catalog\controller\common\tvcmssocialicon.php on line 29
+2020-11-26 19:09:17 - PHP Notice:  Undefined offset: 3 in D:\WinNMP\WWW\catalog\controller\common\tvcmscustomsetting.php on line 91
+2020-11-26 19:09:17 - PHP Notice:  Undefined offset: 3 in D:\WinNMP\WWW\catalog\controller\common\tvcmscustomsetting.php on line 94
+2020-11-26 19:09:17 - PHP Notice:  Undefined offset: 3 in D:\WinNMP\WWW\catalog\controller\common\tvcmscustomsetting.php on line 98
+2020-11-26 19:09:17 - PHP Notice:  Undefined offset: 3 in D:\WinNMP\WWW\catalog\controller\common\tvcmscustomsetting.php on line 91
+2020-11-26 19:09:17 - PHP Notice:  Undefined offset: 3 in D:\WinNMP\WWW\catalog\controller\common\tvcmscustomsetting.php on line 94
+2020-11-26 19:09:17 - PHP Notice:  Undefined offset: 3 in D:\WinNMP\WWW\catalog\controller\common\tvcmscustomsetting.php on line 98
+2020-11-26 19:09:20 - PHP Notice:  Undefined offset: 3 in D:\WinNMP\WWW\catalog\controller\extension\module\tvcmstabproducts.php on line 63
+2020-11-26 19:09:20 - PHP Notice:  Undefined offset: 3 in D:\WinNMP\WWW\catalog\controller\extension\module\tvcmstabproducts.php on line 66
+2020-11-26 19:09:20 - PHP Notice:  Undefined offset: 3 in D:\WinNMP\WWW\catalog\controller\extension\module\tvcmstabproducts.php on line 82
+2020-11-26 19:09:20 - PHP Notice:  Undefined offset: 3 in D:\WinNMP\WWW\catalog\controller\extension\module\tvcmstabproducts.php on line 97
+2020-11-26 19:09:20 - PHP Notice:  Undefined offset: 3 in D:\WinNMP\WWW\catalog\controller\extension\module\tvcmstabproducts.php on line 100
+2020-11-26 19:09:20 - PHP Notice:  Undefined offset: 3 in D:\WinNMP\WWW\catalog\controller\extension\module\tvcmstabproducts.php on line 115
+2020-11-26 19:09:20 - PHP Notice:  Undefined offset: 3 in D:\WinNMP\WWW\catalog\controller\extension\module\tvcmstabproducts.php on line 127
+2020-11-26 19:09:20 - PHP Notice:  Undefined offset: 3 in D:\WinNMP\WWW\catalog\controller\extension\module\tvcmstabproducts.php on line 130
+2020-11-26 19:09:20 - PHP Notice:  Undefined offset: 3 in D:\WinNMP\WWW\catalog\controller\extension\module\tvcmstabproducts.php on line 145
+2020-11-26 19:09:20 - PHP Notice:  Undefined offset: 3 in D:\WinNMP\WWW\catalog\controller\extension\module\tvcmstabproducts.php on line 154
+2020-11-26 19:09:20 - PHP Notice:  Undefined offset: 3 in D:\WinNMP\WWW\catalog\controller\extension\module\tvcmstabproducts.php on line 157
+2020-11-26 19:09:20 - PHP Notice:  Undefined offset: 3 in D:\WinNMP\WWW\catalog\controller\extension\module\tvcmstabproducts.php on line 172
+2020-11-26 19:09:20 - PHP Notice:  Undefined offset: 3 in D:\WinNMP\WWW\catalog\controller\extension\module\tvcmstabproducts.php on line 175
+2020-11-26 19:09:20 - PHP Notice:  Undefined offset: 3 in D:\WinNMP\WWW\catalog\controller\extension\module\tvcmstabproducts.php on line 185
+2020-11-26 19:09:21 - PHP Notice:  Undefined offset: 3 in D:\WinNMP\WWW\catalog\controller\extension\module\tvcmstestimonial.php on line 28
+2020-11-26 19:09:21 - PHP Notice:  Undefined offset: 3 in D:\WinNMP\WWW\catalog\controller\extension\module\tvcmstestimonial.php on line 31
+2020-11-26 19:09:21 - PHP Notice:  Undefined offset: 3 in D:\WinNMP\WWW\system\storage\modification\catalog\controller\extension\module\featured.php on line 24
+2020-11-26 19:09:21 - PHP Notice:  Undefined offset: 3 in D:\WinNMP\WWW\system\storage\modification\catalog\controller\extension\module\featured.php on line 27
+2020-11-26 19:09:22 - PHP Notice:  Undefined offset: 3 in D:\WinNMP\WWW\catalog\controller\extension\module\tvcmsbrandlist.php on line 46
+2020-11-26 19:09:22 - PHP Notice:  Undefined offset: 3 in D:\WinNMP\WWW\catalog\controller\extension\module\tvcmsbrandlist.php on line 46
+2020-11-26 19:09:22 - PHP Notice:  Undefined offset: 3 in D:\WinNMP\WWW\catalog\controller\extension\module\tvcmsbrandlist.php on line 46
+2020-11-26 19:09:22 - PHP Notice:  Undefined offset: 3 in D:\WinNMP\WWW\catalog\controller\extension\module\tvcmsbrandlist.php on line 46
+2020-11-26 19:09:22 - PHP Notice:  Undefined offset: 3 in D:\WinNMP\WWW\catalog\controller\extension\module\tvcmsbrandlist.php on line 46
+2020-11-26 19:09:22 - PHP Notice:  Undefined offset: 3 in D:\WinNMP\WWW\catalog\controller\extension\module\tvcmsbrandlist.php on line 46
+2020-11-26 19:09:22 - PHP Notice:  Undefined offset: 3 in D:\WinNMP\WWW\catalog\controller\extension\module\tvcmsbrandlist.php on line 46
+2020-11-26 19:09:22 - PHP Notice:  Undefined offset: 3 in D:\WinNMP\WWW\catalog\controller\extension\module\tvcmsbrandlist.php on line 46
+2020-11-26 19:09:22 - PHP Notice:  Undefined offset: 3 in D:\WinNMP\WWW\catalog\controller\extension\module\tvcmsblog.php on line 9
+2020-11-26 19:09:22 - PHP Notice:  Undefined offset: 3 in D:\WinNMP\WWW\catalog\controller\extension\module\tvcmsblog.php on line 10
+2020-11-26 19:09:22 - PHP Notice:  Undefined offset: 3 in D:\WinNMP\WWW\catalog\controller\extension\module\tvcmsblog.php on line 11
+2020-11-26 19:09:22 - PHP Notice:  Undefined offset: 3 in D:\WinNMP\WWW\catalog\controller\extension\module\tvcmsspecialproduct.php on line 28
+2020-11-26 19:09:22 - PHP Notice:  Undefined offset: 3 in D:\WinNMP\WWW\catalog\controller\extension\module\tvcmsspecialproduct.php on line 31
+2020-11-26 19:09:22 - PHP Notice:  Undefined offset: 3 in D:\WinNMP\WWW\system\storage\modification\catalog\controller\extension\module\latest.php on line 41
+2020-11-26 19:09:22 - PHP Notice:  Undefined offset: 3 in D:\WinNMP\WWW\system\storage\modification\catalog\controller\extension\module\latest.php on line 44
+2020-11-26 19:09:23 - PHP Notice:  Undefined offset: 3 in D:\WinNMP\WWW\catalog\controller\common\tvcmsfooterlogo.php on line 22
+2020-11-26 19:09:23 - PHP Notice:  Undefined offset: 3 in D:\WinNMP\WWW\catalog\controller\common\tvcmsfooterlogo.php on line 25
+2020-11-26 19:09:23 - PHP Notice:  Undefined offset: 3 in D:\WinNMP\WWW\catalog\controller\common\tvcmssocialicon.php on line 29
+2020-11-26 19:09:23 - PHP Notice:  Undefined offset: 3 in D:\WinNMP\WWW\catalog\controller\common\tvcmscustomsetting.php on line 91
+2020-11-26 19:09:23 - PHP Notice:  Undefined offset: 3 in D:\WinNMP\WWW\catalog\controller\common\tvcmscustomsetting.php on line 94
+2020-11-26 19:09:23 - PHP Notice:  Undefined offset: 3 in D:\WinNMP\WWW\catalog\controller\common\tvcmscustomsetting.php on line 98
+2020-11-26 19:09:23 - PHP Notice:  Undefined offset: 3 in D:\WinNMP\WWW\catalog\controller\common\tvcmscustomsetting.php on line 91
+2020-11-26 19:09:23 - PHP Notice:  Undefined offset: 3 in D:\WinNMP\WWW\catalog\controller\common\tvcmscustomsetting.php on line 94
+2020-11-26 19:09:23 - PHP Notice:  Undefined offset: 3 in D:\WinNMP\WWW\catalog\controller\common\tvcmscustomsetting.php on line 98
+2020-11-26 19:30:31 - PHP Warning:  unlink(D:/WinNMP/WWW/system/storage/cache/cache.catalog.language.1606422629): No such file or directory in D:\WinNMP\WWW\system\library\cache\file.php on line 68
+2020-11-26 20:02:46 - PHP Notice:  Undefined offset: 3 in D:\WinNMP\WWW\catalog\controller\extension\module\tvcmstestimonial.php on line 28
+2020-11-26 20:02:46 - PHP Notice:  Undefined offset: 3 in D:\WinNMP\WWW\catalog\controller\extension\module\tvcmstestimonial.php on line 31
+2020-11-26 20:02:47 - PHP Notice:  Undefined offset: 3 in D:\WinNMP\WWW\catalog\controller\extension\module\tvcmsbrandlist.php on line 46
+2020-11-26 20:02:47 - PHP Notice:  Undefined offset: 3 in D:\WinNMP\WWW\catalog\controller\extension\module\tvcmsbrandlist.php on line 46
+2020-11-26 20:02:47 - PHP Notice:  Undefined offset: 3 in D:\WinNMP\WWW\catalog\controller\extension\module\tvcmsbrandlist.php on line 46
+2020-11-26 20:02:47 - PHP Notice:  Undefined offset: 3 in D:\WinNMP\WWW\catalog\controller\extension\module\tvcmsbrandlist.php on line 46
+2020-11-26 20:02:47 - PHP Notice:  Undefined offset: 3 in D:\WinNMP\WWW\catalog\controller\extension\module\tvcmsbrandlist.php on line 46
+2020-11-26 20:02:47 - PHP Notice:  Undefined offset: 3 in D:\WinNMP\WWW\catalog\controller\extension\module\tvcmsbrandlist.php on line 46
+2020-11-26 20:02:47 - PHP Notice:  Undefined offset: 3 in D:\WinNMP\WWW\catalog\controller\extension\module\tvcmsbrandlist.php on line 46
+2020-11-26 20:02:47 - PHP Notice:  Undefined offset: 3 in D:\WinNMP\WWW\catalog\controller\extension\module\tvcmsbrandlist.php on line 46
+2020-11-26 20:02:47 - PHP Notice:  Undefined offset: 3 in D:\WinNMP\WWW\catalog\controller\extension\module\tvcmsblog.php on line 9
+2020-11-26 20:02:47 - PHP Notice:  Undefined offset: 3 in D:\WinNMP\WWW\catalog\controller\extension\module\tvcmsblog.php on line 10
+2020-11-26 20:02:47 - PHP Notice:  Undefined offset: 3 in D:\WinNMP\WWW\catalog\controller\extension\module\tvcmsblog.php on line 11
+2020-11-26 20:02:48 - PHP Notice:  Undefined offset: 3 in D:\WinNMP\WWW\catalog\controller\common\tvcmsfooterlogo.php on line 22
+2020-11-26 20:02:48 - PHP Notice:  Undefined offset: 3 in D:\WinNMP\WWW\catalog\controller\common\tvcmsfooterlogo.php on line 25
+2020-11-26 20:02:48 - PHP Notice:  Undefined offset: 3 in D:\WinNMP\WWW\catalog\controller\common\tvcmssocialicon.php on line 29
+2020-11-26 20:03:56 - PHP Notice:  Undefined offset: 3 in D:\WinNMP\WWW\catalog\controller\extension\module\tvcmstestimonial.php on line 28
+2020-11-26 20:03:56 - PHP Notice:  Undefined offset: 3 in D:\WinNMP\WWW\catalog\controller\extension\module\tvcmstestimonial.php on line 31
+2020-11-26 20:03:56 - PHP Notice:  Undefined offset: 3 in D:\WinNMP\WWW\catalog\controller\extension\module\tvcmsbrandlist.php on line 46
+2020-11-26 20:03:56 - PHP Notice:  Undefined offset: 3 in D:\WinNMP\WWW\catalog\controller\extension\module\tvcmsbrandlist.php on line 46
+2020-11-26 20:03:57 - PHP Notice:  Undefined offset: 3 in D:\WinNMP\WWW\catalog\controller\extension\module\tvcmsbrandlist.php on line 46
+2020-11-26 20:03:57 - PHP Notice:  Undefined offset: 3 in D:\WinNMP\WWW\catalog\controller\extension\module\tvcmsbrandlist.php on line 46
+2020-11-26 20:03:57 - PHP Notice:  Undefined offset: 3 in D:\WinNMP\WWW\catalog\controller\extension\module\tvcmsbrandlist.php on line 46
+2020-11-26 20:03:57 - PHP Notice:  Undefined offset: 3 in D:\WinNMP\WWW\catalog\controller\extension\module\tvcmsbrandlist.php on line 46
+2020-11-26 20:03:57 - PHP Notice:  Undefined offset: 3 in D:\WinNMP\WWW\catalog\controller\extension\module\tvcmsbrandlist.php on line 46
+2020-11-26 20:03:57 - PHP Notice:  Undefined offset: 3 in D:\WinNMP\WWW\catalog\controller\extension\module\tvcmsbrandlist.php on line 46
+2020-11-26 20:03:57 - PHP Notice:  Undefined offset: 3 in D:\WinNMP\WWW\catalog\controller\extension\module\tvcmsblog.php on line 9
+2020-11-26 20:03:57 - PHP Notice:  Undefined offset: 3 in D:\WinNMP\WWW\catalog\controller\extension\module\tvcmsblog.php on line 10
+2020-11-26 20:03:57 - PHP Notice:  Undefined offset: 3 in D:\WinNMP\WWW\catalog\controller\extension\module\tvcmsblog.php on line 11
+2020-11-26 20:03:58 - PHP Notice:  Undefined offset: 3 in D:\WinNMP\WWW\catalog\controller\common\tvcmsfooterlogo.php on line 22
+2020-11-26 20:03:58 - PHP Notice:  Undefined offset: 3 in D:\WinNMP\WWW\catalog\controller\common\tvcmsfooterlogo.php on line 25
+2020-11-26 20:03:58 - PHP Notice:  Undefined offset: 3 in D:\WinNMP\WWW\catalog\controller\common\tvcmssocialicon.php on line 29
+2020-11-27 17:02:35 - PHP Notice:  Undefined offset: 3 in D:\WinNMP\WWW\catalog\controller\extension\module\tvcmstestimonial.php on line 28
+2020-11-27 17:02:35 - PHP Notice:  Undefined offset: 3 in D:\WinNMP\WWW\catalog\controller\extension\module\tvcmstestimonial.php on line 31
+2020-11-27 17:02:36 - PHP Notice:  Undefined offset: 3 in D:\WinNMP\WWW\catalog\controller\extension\module\tvcmsbrandlist.php on line 46
+2020-11-27 17:02:36 - PHP Notice:  Undefined offset: 3 in D:\WinNMP\WWW\catalog\controller\extension\module\tvcmsbrandlist.php on line 46
+2020-11-27 17:02:36 - PHP Notice:  Undefined offset: 3 in D:\WinNMP\WWW\catalog\controller\extension\module\tvcmsbrandlist.php on line 46
+2020-11-27 17:02:36 - PHP Notice:  Undefined offset: 3 in D:\WinNMP\WWW\catalog\controller\extension\module\tvcmsbrandlist.php on line 46
+2020-11-27 17:02:36 - PHP Notice:  Undefined offset: 3 in D:\WinNMP\WWW\catalog\controller\extension\module\tvcmsbrandlist.php on line 46
+2020-11-27 17:02:36 - PHP Notice:  Undefined offset: 3 in D:\WinNMP\WWW\catalog\controller\extension\module\tvcmsbrandlist.php on line 46
+2020-11-27 17:02:36 - PHP Notice:  Undefined offset: 3 in D:\WinNMP\WWW\catalog\controller\extension\module\tvcmsbrandlist.php on line 46
+2020-11-27 17:02:36 - PHP Notice:  Undefined offset: 3 in D:\WinNMP\WWW\catalog\controller\extension\module\tvcmsbrandlist.php on line 46
+2020-11-27 17:02:36 - PHP Notice:  Undefined offset: 3 in D:\WinNMP\WWW\catalog\controller\extension\module\tvcmsblog.php on line 9
+2020-11-27 17:02:36 - PHP Notice:  Undefined offset: 3 in D:\WinNMP\WWW\catalog\controller\extension\module\tvcmsblog.php on line 10
+2020-11-27 17:02:36 - PHP Notice:  Undefined offset: 3 in D:\WinNMP\WWW\catalog\controller\extension\module\tvcmsblog.php on line 11
+2020-11-27 17:02:37 - PHP Notice:  Undefined offset: 3 in D:\WinNMP\WWW\catalog\controller\common\tvcmsfooterlogo.php on line 22
+2020-11-27 17:02:37 - PHP Notice:  Undefined offset: 3 in D:\WinNMP\WWW\catalog\controller\common\tvcmsfooterlogo.php on line 25
+2020-11-27 17:02:38 - PHP Notice:  Undefined offset: 3 in D:\WinNMP\WWW\catalog\controller\common\tvcmssocialicon.php on line 29
+2020-11-27 17:02:40 - PHP Notice:  Undefined offset: 3 in D:\WinNMP\WWW\catalog\controller\extension\module\tvcmstestimonial.php on line 28
+2020-11-27 17:02:40 - PHP Notice:  Undefined offset: 3 in D:\WinNMP\WWW\catalog\controller\extension\module\tvcmstestimonial.php on line 31
+2020-11-27 17:02:40 - PHP Notice:  Undefined offset: 3 in D:\WinNMP\WWW\catalog\controller\extension\module\tvcmsbrandlist.php on line 46
+2020-11-27 17:02:40 - PHP Notice:  Undefined offset: 3 in D:\WinNMP\WWW\catalog\controller\extension\module\tvcmsbrandlist.php on line 46
+2020-11-27 17:02:40 - PHP Notice:  Undefined offset: 3 in D:\WinNMP\WWW\catalog\controller\extension\module\tvcmsbrandlist.php on line 46
+2020-11-27 17:02:40 - PHP Notice:  Undefined offset: 3 in D:\WinNMP\WWW\catalog\controller\extension\module\tvcmsbrandlist.php on line 46
+2020-11-27 17:02:40 - PHP Notice:  Undefined offset: 3 in D:\WinNMP\WWW\catalog\controller\extension\module\tvcmsbrandlist.php on line 46
+2020-11-27 17:02:40 - PHP Notice:  Undefined offset: 3 in D:\WinNMP\WWW\catalog\controller\extension\module\tvcmsbrandlist.php on line 46
+2020-11-27 17:02:40 - PHP Notice:  Undefined offset: 3 in D:\WinNMP\WWW\catalog\controller\extension\module\tvcmsbrandlist.php on line 46
+2020-11-27 17:02:40 - PHP Notice:  Undefined offset: 3 in D:\WinNMP\WWW\catalog\controller\extension\module\tvcmsbrandlist.php on line 46
+2020-11-27 17:02:40 - PHP Notice:  Undefined offset: 3 in D:\WinNMP\WWW\catalog\controller\extension\module\tvcmsblog.php on line 9
+2020-11-27 17:02:40 - PHP Notice:  Undefined offset: 3 in D:\WinNMP\WWW\catalog\controller\extension\module\tvcmsblog.php on line 10
+2020-11-27 17:02:40 - PHP Notice:  Undefined offset: 3 in D:\WinNMP\WWW\catalog\controller\extension\module\tvcmsblog.php on line 11
+2020-11-27 17:02:41 - PHP Notice:  Undefined offset: 3 in D:\WinNMP\WWW\catalog\controller\common\tvcmsfooterlogo.php on line 22
+2020-11-27 17:02:41 - PHP Notice:  Undefined offset: 3 in D:\WinNMP\WWW\catalog\controller\common\tvcmsfooterlogo.php on line 25
+2020-11-27 17:02:41 - PHP Notice:  Undefined offset: 3 in D:\WinNMP\WWW\catalog\controller\common\tvcmssocialicon.php on line 29
+2020-11-27 18:10:44 - PHP Warning:  unlink(D:/WinNMP/storage/cache/cache.catalog.language.1606504242): No such file or directory in D:\WinNMP\WWW\system\library\cache\file.php on line 68
+2020-11-27 18:11:11 - PHP Warning:  unlink(D:/WinNMP/storage/cache/cache.catalog.language.1606504270): No such file or directory in D:\WinNMP\WWW\system\library\cache\file.php on line 68
+2020-11-27 18:13:05 - PHP Warning:  unlink(D:/WinNMP/storage/cache/cache.catalog.language.1606504383): No such file or directory in D:\WinNMP\WWW\system\library\cache\file.php on line 68
+2020-11-27 18:13:18 - PHP Warning:  unlink(D:/WinNMP/storage/cache/cache.catalog.language.1606504396): No such file or directory in D:\WinNMP\WWW\system\library\cache\file.php on line 68
+2020-11-27 18:22:18 - PHP Notice:  Undefined index: order_id in D:\WinNMP\WWW\catalog\controller\extension\payment\liqpay.php on line 42
+2020-11-27 18:22:18 - PHP Notice:  Undefined index: order_id in D:\WinNMP\WWW\catalog\controller\extension\payment\liqpay.php on line 44
+2020-11-27 18:22:18 - PHP Notice:  Undefined index:  in D:\WinNMP\WWW\system\library\cart\currency.php on line 25
+2020-11-27 18:22:18 - PHP Notice:  Undefined index:  in D:\WinNMP\WWW\system\library\cart\currency.php on line 26
+2020-11-27 18:22:18 - PHP Notice:  Undefined index:  in D:\WinNMP\WWW\system\library\cart\currency.php on line 27
+2020-11-27 18:22:18 - PHP Notice:  Undefined index:  in D:\WinNMP\WWW\system\library\cart\currency.php on line 30
+2020-11-27 18:24:39 - PHP Notice:  Undefined index: order_id in D:\WinNMP\WWW\catalog\controller\extension\payment\liqpay.php on line 42
+2020-11-27 18:24:39 - PHP Notice:  Undefined index: order_id in D:\WinNMP\WWW\catalog\controller\extension\payment\liqpay.php on line 44
+2020-11-27 18:24:39 - PHP Notice:  Undefined index:  in D:\WinNMP\WWW\system\library\cart\currency.php on line 25
+2020-11-27 18:24:39 - PHP Notice:  Undefined index:  in D:\WinNMP\WWW\system\library\cart\currency.php on line 26
+2020-11-27 18:24:39 - PHP Notice:  Undefined index:  in D:\WinNMP\WWW\system\library\cart\currency.php on line 27
+2020-11-27 18:24:39 - PHP Notice:  Undefined index:  in D:\WinNMP\WWW\system\library\cart\currency.php on line 30
+2020-11-27 18:30:04 - PHP Notice:  Undefined index: order_id in D:\WinNMP\WWW\catalog\controller\extension\payment\liqpay.php on line 42
+2020-11-27 18:30:04 - PHP Notice:  Undefined index: order_id in D:\WinNMP\WWW\catalog\controller\extension\payment\liqpay.php on line 44
+2020-11-27 18:30:04 - PHP Notice:  Undefined index:  in D:\WinNMP\WWW\system\library\cart\currency.php on line 25
+2020-11-27 18:30:04 - PHP Notice:  Undefined index:  in D:\WinNMP\WWW\system\library\cart\currency.php on line 26
+2020-11-27 18:30:04 - PHP Notice:  Undefined index:  in D:\WinNMP\WWW\system\library\cart\currency.php on line 27
+2020-11-27 18:30:04 - PHP Notice:  Undefined index:  in D:\WinNMP\WWW\system\library\cart\currency.php on line 30
+2020-11-27 18:47:19 - PHP Notice:  Undefined offset: 3 in D:\WinNMP\WWW\catalog\controller\extension\module\tvcmstestimonial.php on line 28
+2020-11-27 18:47:19 - PHP Notice:  Undefined offset: 3 in D:\WinNMP\WWW\catalog\controller\extension\module\tvcmstestimonial.php on line 31
+2020-11-27 18:47:19 - PHP Notice:  Undefined offset: 3 in D:\WinNMP\WWW\catalog\controller\extension\module\tvcmsbrandlist.php on line 46
+2020-11-27 18:47:19 - PHP Notice:  Undefined offset: 3 in D:\WinNMP\WWW\catalog\controller\extension\module\tvcmsbrandlist.php on line 46
+2020-11-27 18:47:19 - PHP Notice:  Undefined offset: 3 in D:\WinNMP\WWW\catalog\controller\extension\module\tvcmsbrandlist.php on line 46
+2020-11-27 18:47:19 - PHP Notice:  Undefined offset: 3 in D:\WinNMP\WWW\catalog\controller\extension\module\tvcmsbrandlist.php on line 46
+2020-11-27 18:47:19 - PHP Notice:  Undefined offset: 3 in D:\WinNMP\WWW\catalog\controller\extension\module\tvcmsbrandlist.php on line 46
+2020-11-27 18:47:19 - PHP Notice:  Undefined offset: 3 in D:\WinNMP\WWW\catalog\controller\extension\module\tvcmsbrandlist.php on line 46
+2020-11-27 18:47:20 - PHP Notice:  Undefined offset: 3 in D:\WinNMP\WWW\catalog\controller\extension\module\tvcmsbrandlist.php on line 46
+2020-11-27 18:47:20 - PHP Notice:  Undefined offset: 3 in D:\WinNMP\WWW\catalog\controller\extension\module\tvcmsbrandlist.php on line 46
+2020-11-27 18:47:20 - PHP Notice:  Undefined offset: 3 in D:\WinNMP\WWW\catalog\controller\extension\module\tvcmsblog.php on line 9
+2020-11-27 18:47:20 - PHP Notice:  Undefined offset: 3 in D:\WinNMP\WWW\catalog\controller\extension\module\tvcmsblog.php on line 10
+2020-11-27 18:47:20 - PHP Notice:  Undefined offset: 3 in D:\WinNMP\WWW\catalog\controller\extension\module\tvcmsblog.php on line 11
+2020-11-27 18:47:21 - PHP Notice:  Undefined offset: 3 in D:\WinNMP\WWW\catalog\controller\common\tvcmsfooterlogo.php on line 22
+2020-11-27 18:47:21 - PHP Notice:  Undefined offset: 3 in D:\WinNMP\WWW\catalog\controller\common\tvcmsfooterlogo.php on line 25
+2020-11-27 18:47:21 - PHP Notice:  Undefined offset: 3 in D:\WinNMP\WWW\catalog\controller\common\tvcmssocialicon.php on line 29
+2020-11-27 18:48:16 - PHP Warning:  unlink(D:/WinNMP/storage/cache/cache.catalog.language.1606506495): No such file or directory in D:\WinNMP\WWW\system\library\cache\file.php on line 68
+2020-11-27 18:48:28 - PHP Warning:  unlink(D:/WinNMP/storage/cache/cache.catalog.language.1606506507): No such file or directory in D:\WinNMP\WWW\system\library\cache\file.php on line 68
+2020-11-27 18:48:46 - PHP Warning:  unlink(D:/WinNMP/storage/cache/cache.catalog.language.1606506524): No such file or directory in D:\WinNMP\WWW\system\library\cache\file.php on line 68
+2020-11-27 18:49:24 - PHP Warning:  unlink(D:/WinNMP/storage/cache/cache.catalog.language.1606506562): No such file or directory in D:\WinNMP\WWW\system\library\cache\file.php on line 68
+2020-11-27 18:52:16 - PHP Warning:  unlink(D:/WinNMP/storage/cache/cache.catalog.language.1606506735): No such file or directory in D:\WinNMP\WWW\system\library\cache\file.php on line 68
+2020-11-27 18:52:31 - PHP Warning:  unlink(D:/WinNMP/storage/cache/cache.catalog.language.1606506749): No such file or directory in D:\WinNMP\WWW\system\library\cache\file.php on line 68
+2020-11-27 18:53:27 - PHP Notice:  Undefined index: firstname in D:\WinNMP\WWW\catalog\model\checkout\order.php on line 4
+2020-12-02 17:09:59 - PHP Notice:  Undefined offset: 3 in D:\WinNMP\WWW\catalog\controller\extension\module\tvcmstestimonial.php on line 28
+2020-12-02 17:09:59 - PHP Notice:  Undefined offset: 3 in D:\WinNMP\WWW\catalog\controller\extension\module\tvcmstestimonial.php on line 31
+2020-12-02 17:09:59 - PHP Notice:  Undefined offset: 3 in D:\WinNMP\WWW\catalog\controller\extension\module\tvcmsbrandlist.php on line 46
+2020-12-02 17:09:59 - PHP Notice:  Undefined offset: 3 in D:\WinNMP\WWW\catalog\controller\extension\module\tvcmsbrandlist.php on line 46
+2020-12-02 17:09:59 - PHP Notice:  Undefined offset: 3 in D:\WinNMP\WWW\catalog\controller\extension\module\tvcmsbrandlist.php on line 46
+2020-12-02 17:09:59 - PHP Notice:  Undefined offset: 3 in D:\WinNMP\WWW\catalog\controller\extension\module\tvcmsbrandlist.php on line 46
+2020-12-02 17:09:59 - PHP Notice:  Undefined offset: 3 in D:\WinNMP\WWW\catalog\controller\extension\module\tvcmsbrandlist.php on line 46
+2020-12-02 17:09:59 - PHP Notice:  Undefined offset: 3 in D:\WinNMP\WWW\catalog\controller\extension\module\tvcmsbrandlist.php on line 46
+2020-12-02 17:09:59 - PHP Notice:  Undefined offset: 3 in D:\WinNMP\WWW\catalog\controller\extension\module\tvcmsbrandlist.php on line 46
+2020-12-02 17:09:59 - PHP Notice:  Undefined offset: 3 in D:\WinNMP\WWW\catalog\controller\extension\module\tvcmsbrandlist.php on line 46
+2020-12-02 17:09:59 - PHP Notice:  Undefined offset: 3 in D:\WinNMP\WWW\catalog\controller\extension\module\tvcmsblog.php on line 9
+2020-12-02 17:09:59 - PHP Notice:  Undefined offset: 3 in D:\WinNMP\WWW\catalog\controller\extension\module\tvcmsblog.php on line 10
+2020-12-02 17:09:59 - PHP Notice:  Undefined offset: 3 in D:\WinNMP\WWW\catalog\controller\extension\module\tvcmsblog.php on line 11
+2020-12-02 17:10:00 - PHP Notice:  Undefined offset: 3 in D:\WinNMP\WWW\catalog\controller\extension\module\tvcmstestimonial.php on line 28
+2020-12-02 17:10:00 - PHP Notice:  Undefined offset: 3 in D:\WinNMP\WWW\catalog\controller\extension\module\tvcmstestimonial.php on line 31
+2020-12-02 17:10:01 - PHP Notice:  Undefined offset: 3 in D:\WinNMP\WWW\catalog\controller\extension\module\tvcmsbrandlist.php on line 46
+2020-12-02 17:10:01 - PHP Notice:  Undefined offset: 3 in D:\WinNMP\WWW\catalog\controller\extension\module\tvcmsbrandlist.php on line 46
+2020-12-02 17:10:01 - PHP Notice:  Undefined offset: 3 in D:\WinNMP\WWW\catalog\controller\extension\module\tvcmsbrandlist.php on line 46
+2020-12-02 17:10:01 - PHP Notice:  Undefined offset: 3 in D:\WinNMP\WWW\catalog\controller\extension\module\tvcmsbrandlist.php on line 46
+2020-12-02 17:10:01 - PHP Notice:  Undefined offset: 3 in D:\WinNMP\WWW\catalog\controller\extension\module\tvcmsbrandlist.php on line 46
+2020-12-02 17:10:01 - PHP Notice:  Undefined offset: 3 in D:\WinNMP\WWW\catalog\controller\extension\module\tvcmsbrandlist.php on line 46
+2020-12-02 17:10:01 - PHP Notice:  Undefined offset: 3 in D:\WinNMP\WWW\catalog\controller\extension\module\tvcmsbrandlist.php on line 46
+2020-12-02 17:10:01 - PHP Notice:  Undefined offset: 3 in D:\WinNMP\WWW\catalog\controller\extension\module\tvcmsbrandlist.php on line 46
+2020-12-02 17:10:01 - PHP Notice:  Undefined offset: 3 in D:\WinNMP\WWW\catalog\controller\extension\module\tvcmsblog.php on line 9
+2020-12-02 17:10:01 - PHP Notice:  Undefined offset: 3 in D:\WinNMP\WWW\catalog\controller\extension\module\tvcmsblog.php on line 10
+2020-12-02 17:10:01 - PHP Notice:  Undefined offset: 3 in D:\WinNMP\WWW\catalog\controller\extension\module\tvcmsblog.php on line 11
+2020-12-02 17:10:01 - PHP Notice:  Undefined offset: 3 in D:\WinNMP\WWW\catalog\controller\common\tvcmsfooterlogo.php on line 22
+2020-12-02 17:10:01 - PHP Notice:  Undefined offset: 3 in D:\WinNMP\WWW\catalog\controller\common\tvcmsfooterlogo.php on line 25
+2020-12-02 17:10:01 - PHP Notice:  Undefined offset: 3 in D:\WinNMP\WWW\catalog\controller\common\tvcmssocialicon.php on line 29
+2020-12-02 17:10:02 - PHP Notice:  Undefined offset: 3 in D:\WinNMP\WWW\catalog\controller\common\tvcmsfooterlogo.php on line 22
+2020-12-02 17:10:02 - PHP Notice:  Undefined offset: 3 in D:\WinNMP\WWW\catalog\controller\common\tvcmsfooterlogo.php on line 25
+2020-12-02 17:10:02 - PHP Notice:  Undefined offset: 3 in D:\WinNMP\WWW\catalog\controller\common\tvcmssocialicon.php on line 29
+2020-12-02 19:24:40 - PHP Warning:  unlink(D:/WinNMP/storage/cache/cache.admin.language.1606932670): No such file or directory in D:\WinNMP\WWW\system\library\cache\file.php on line 17
+2020-12-02 19:24:41 - PHP Warning:  Cannot modify header information - headers already sent by (output started at D:\WinNMP\WWW\system\framework.php:43) in D:\WinNMP\WWW\catalog\controller\startup\session.php on line 25
+2020-12-02 19:24:41 - PHP Warning:  Cannot modify header information - headers already sent by (output started at D:\WinNMP\WWW\system\framework.php:43) in D:\WinNMP\storage\modification\catalog\controller\startup\startup.php on line 99
+2020-12-02 19:24:41 - PHP Warning:  Cannot modify header information - headers already sent by (output started at D:\WinNMP\WWW\system\framework.php:43) in D:\WinNMP\storage\modification\catalog\controller\startup\startup.php on line 157
+2020-12-02 19:24:47 - PHP Notice:  Undefined offset: 3 in D:\WinNMP\WWW\catalog\controller\extension\module\tvcmstestimonial.php on line 28
+2020-12-02 19:24:47 - PHP Notice:  Undefined offset: 3 in D:\WinNMP\WWW\catalog\controller\extension\module\tvcmstestimonial.php on line 31
+2020-12-02 19:24:48 - PHP Notice:  Undefined offset: 3 in D:\WinNMP\WWW\catalog\controller\extension\module\tvcmsbrandlist.php on line 46
+2020-12-02 19:24:48 - PHP Notice:  Undefined offset: 3 in D:\WinNMP\WWW\catalog\controller\extension\module\tvcmsbrandlist.php on line 46
+2020-12-02 19:24:48 - PHP Notice:  Undefined offset: 3 in D:\WinNMP\WWW\catalog\controller\extension\module\tvcmsbrandlist.php on line 46
+2020-12-02 19:24:48 - PHP Notice:  Undefined offset: 3 in D:\WinNMP\WWW\catalog\controller\extension\module\tvcmsbrandlist.php on line 46
+2020-12-02 19:24:48 - PHP Notice:  Undefined offset: 3 in D:\WinNMP\WWW\catalog\controller\extension\module\tvcmsbrandlist.php on line 46
+2020-12-02 19:24:48 - PHP Notice:  Undefined offset: 3 in D:\WinNMP\WWW\catalog\controller\extension\module\tvcmsbrandlist.php on line 46
+2020-12-02 19:24:48 - PHP Notice:  Undefined offset: 3 in D:\WinNMP\WWW\catalog\controller\extension\module\tvcmsbrandlist.php on line 46
+2020-12-02 19:24:48 - PHP Notice:  Undefined offset: 3 in D:\WinNMP\WWW\catalog\controller\extension\module\tvcmsbrandlist.php on line 46
+2020-12-02 19:24:48 - PHP Notice:  Undefined offset: 3 in D:\WinNMP\WWW\catalog\controller\extension\module\tvcmsblog.php on line 9
+2020-12-02 19:24:48 - PHP Notice:  Undefined offset: 3 in D:\WinNMP\WWW\catalog\controller\extension\module\tvcmsblog.php on line 10
+2020-12-02 19:24:48 - PHP Notice:  Undefined offset: 3 in D:\WinNMP\WWW\catalog\controller\extension\module\tvcmsblog.php on line 11
+2020-12-02 19:24:50 - PHP Notice:  Undefined offset: 3 in D:\WinNMP\WWW\catalog\controller\common\tvcmsfooterlogo.php on line 22
+2020-12-02 19:24:50 - PHP Notice:  Undefined offset: 3 in D:\WinNMP\WWW\catalog\controller\common\tvcmsfooterlogo.php on line 25
+2020-12-02 19:24:50 - PHP Notice:  Undefined offset: 3 in D:\WinNMP\WWW\catalog\controller\common\tvcmssocialicon.php on line 29
+2020-12-02 19:24:55 - PHP Notice:  Undefined offset: 3 in D:\WinNMP\WWW\catalog\controller\extension\module\tvcmstestimonial.php on line 28
+2020-12-02 19:24:55 - PHP Notice:  Undefined offset: 3 in D:\WinNMP\WWW\catalog\controller\extension\module\tvcmstestimonial.php on line 31
+2020-12-02 19:24:55 - PHP Notice:  Undefined offset: 3 in D:\WinNMP\WWW\catalog\controller\extension\module\tvcmsbrandlist.php on line 46
+2020-12-02 19:24:55 - PHP Notice:  Undefined offset: 3 in D:\WinNMP\WWW\catalog\controller\extension\module\tvcmsbrandlist.php on line 46
+2020-12-02 19:24:55 - PHP Notice:  Undefined offset: 3 in D:\WinNMP\WWW\catalog\controller\extension\module\tvcmsbrandlist.php on line 46
+2020-12-02 19:24:55 - PHP Notice:  Undefined offset: 3 in D:\WinNMP\WWW\catalog\controller\extension\module\tvcmsbrandlist.php on line 46
+2020-12-02 19:24:55 - PHP Notice:  Undefined offset: 3 in D:\WinNMP\WWW\catalog\controller\extension\module\tvcmsbrandlist.php on line 46
+2020-12-02 19:24:55 - PHP Notice:  Undefined offset: 3 in D:\WinNMP\WWW\catalog\controller\extension\module\tvcmsbrandlist.php on line 46
+2020-12-02 19:24:55 - PHP Notice:  Undefined offset: 3 in D:\WinNMP\WWW\catalog\controller\extension\module\tvcmsbrandlist.php on line 46
+2020-12-02 19:24:55 - PHP Notice:  Undefined offset: 3 in D:\WinNMP\WWW\catalog\controller\extension\module\tvcmsbrandlist.php on line 46
+2020-12-02 19:24:56 - PHP Notice:  Undefined offset: 3 in D:\WinNMP\WWW\catalog\controller\extension\module\tvcmsblog.php on line 9
+2020-12-02 19:24:56 - PHP Notice:  Undefined offset: 3 in D:\WinNMP\WWW\catalog\controller\extension\module\tvcmsblog.php on line 10
+2020-12-02 19:24:56 - PHP Notice:  Undefined offset: 3 in D:\WinNMP\WWW\catalog\controller\extension\module\tvcmsblog.php on line 11
+2020-12-02 19:24:57 - PHP Notice:  Undefined offset: 3 in D:\WinNMP\WWW\catalog\controller\common\tvcmsfooterlogo.php on line 22
+2020-12-02 19:24:57 - PHP Notice:  Undefined offset: 3 in D:\WinNMP\WWW\catalog\controller\common\tvcmsfooterlogo.php on line 25
+2020-12-02 19:24:57 - PHP Notice:  Undefined offset: 3 in D:\WinNMP\WWW\catalog\controller\common\tvcmssocialicon.php on line 29
+2020-12-02 20:18:21 - PHP Notice:  Undefined offset: 3 in D:\WinNMP\WWW\catalog\controller\extension\module\tvcmstestimonial.php on line 28
+2020-12-02 20:18:21 - PHP Notice:  Undefined offset: 3 in D:\WinNMP\WWW\catalog\controller\extension\module\tvcmstestimonial.php on line 31
+2020-12-02 20:18:21 - PHP Notice:  Undefined offset: 3 in D:\WinNMP\WWW\catalog\controller\extension\module\tvcmsbrandlist.php on line 46
+2020-12-02 20:18:21 - PHP Notice:  Undefined offset: 3 in D:\WinNMP\WWW\catalog\controller\extension\module\tvcmsbrandlist.php on line 46
+2020-12-02 20:18:21 - PHP Notice:  Undefined offset: 3 in D:\WinNMP\WWW\catalog\controller\extension\module\tvcmsbrandlist.php on line 46
+2020-12-02 20:18:22 - PHP Notice:  Undefined offset: 3 in D:\WinNMP\WWW\catalog\controller\extension\module\tvcmsbrandlist.php on line 46
+2020-12-02 20:18:22 - PHP Notice:  Undefined offset: 3 in D:\WinNMP\WWW\catalog\controller\extension\module\tvcmsbrandlist.php on line 46
+2020-12-02 20:18:22 - PHP Notice:  Undefined offset: 3 in D:\WinNMP\WWW\catalog\controller\extension\module\tvcmsbrandlist.php on line 46
+2020-12-02 20:18:22 - PHP Notice:  Undefined offset: 3 in D:\WinNMP\WWW\catalog\controller\extension\module\tvcmsbrandlist.php on line 46
+2020-12-02 20:18:22 - PHP Notice:  Undefined offset: 3 in D:\WinNMP\WWW\catalog\controller\extension\module\tvcmsbrandlist.php on line 46
+2020-12-02 20:18:22 - PHP Notice:  Undefined offset: 3 in D:\WinNMP\WWW\catalog\controller\extension\module\tvcmsblog.php on line 9
+2020-12-02 20:18:22 - PHP Notice:  Undefined offset: 3 in D:\WinNMP\WWW\catalog\controller\extension\module\tvcmsblog.php on line 10
+2020-12-02 20:18:22 - PHP Notice:  Undefined offset: 3 in D:\WinNMP\WWW\catalog\controller\extension\module\tvcmsblog.php on line 11
+2020-12-02 20:18:23 - PHP Notice:  Undefined offset: 3 in D:\WinNMP\WWW\catalog\controller\common\tvcmsfooterlogo.php on line 22
+2020-12-02 20:18:23 - PHP Notice:  Undefined offset: 3 in D:\WinNMP\WWW\catalog\controller\common\tvcmsfooterlogo.php on line 25
+2020-12-02 20:18:23 - PHP Notice:  Undefined offset: 3 in D:\WinNMP\WWW\catalog\controller\common\tvcmssocialicon.php on line 29
+2020-12-03 15:34:48 - PHP Notice:  Undefined offset: 3 in D:\WinNMP\WWW\catalog\controller\extension\module\tvcmstestimonial.php on line 28
+2020-12-03 15:34:48 - PHP Notice:  Undefined offset: 3 in D:\WinNMP\WWW\catalog\controller\extension\module\tvcmstestimonial.php on line 31
+2020-12-03 15:34:49 - PHP Notice:  Undefined offset: 3 in D:\WinNMP\WWW\catalog\controller\extension\module\tvcmsbrandlist.php on line 46
+2020-12-03 15:34:49 - PHP Notice:  Undefined offset: 3 in D:\WinNMP\WWW\catalog\controller\extension\module\tvcmsbrandlist.php on line 46
+2020-12-03 15:34:49 - PHP Notice:  Undefined offset: 3 in D:\WinNMP\WWW\catalog\controller\extension\module\tvcmsbrandlist.php on line 46
+2020-12-03 15:34:49 - PHP Notice:  Undefined offset: 3 in D:\WinNMP\WWW\catalog\controller\extension\module\tvcmsbrandlist.php on line 46
+2020-12-03 15:34:49 - PHP Notice:  Undefined offset: 3 in D:\WinNMP\WWW\catalog\controller\extension\module\tvcmsbrandlist.php on line 46
+2020-12-03 15:34:49 - PHP Notice:  Undefined offset: 3 in D:\WinNMP\WWW\catalog\controller\extension\module\tvcmsbrandlist.php on line 46
+2020-12-03 15:34:49 - PHP Notice:  Undefined offset: 3 in D:\WinNMP\WWW\catalog\controller\extension\module\tvcmsbrandlist.php on line 46
+2020-12-03 15:34:49 - PHP Notice:  Undefined offset: 3 in D:\WinNMP\WWW\catalog\controller\extension\module\tvcmsbrandlist.php on line 46
+2020-12-03 15:34:49 - PHP Notice:  Undefined offset: 3 in D:\WinNMP\WWW\catalog\controller\extension\module\tvcmsblog.php on line 9
+2020-12-03 15:34:49 - PHP Notice:  Undefined offset: 3 in D:\WinNMP\WWW\catalog\controller\extension\module\tvcmsblog.php on line 10
+2020-12-03 15:34:49 - PHP Notice:  Undefined offset: 3 in D:\WinNMP\WWW\catalog\controller\extension\module\tvcmsblog.php on line 11
+2020-12-03 15:34:50 - PHP Notice:  Undefined offset: 3 in D:\WinNMP\WWW\catalog\controller\common\tvcmsfooterlogo.php on line 22
+2020-12-03 15:34:50 - PHP Notice:  Undefined offset: 3 in D:\WinNMP\WWW\catalog\controller\common\tvcmsfooterlogo.php on line 25
+2020-12-03 15:34:50 - PHP Notice:  Undefined offset: 3 in D:\WinNMP\WWW\catalog\controller\common\tvcmssocialicon.php on line 29
+2020-12-03 15:34:53 - PHP Notice:  Undefined offset: 3 in D:\WinNMP\WWW\catalog\controller\extension\module\tvcmstestimonial.php on line 28
+2020-12-03 15:34:53 - PHP Notice:  Undefined offset: 3 in D:\WinNMP\WWW\catalog\controller\extension\module\tvcmstestimonial.php on line 31
+2020-12-03 15:34:53 - PHP Notice:  Undefined offset: 3 in D:\WinNMP\WWW\catalog\controller\extension\module\tvcmsbrandlist.php on line 46
+2020-12-03 15:34:53 - PHP Notice:  Undefined offset: 3 in D:\WinNMP\WWW\catalog\controller\extension\module\tvcmsbrandlist.php on line 46
+2020-12-03 15:34:53 - PHP Notice:  Undefined offset: 3 in D:\WinNMP\WWW\catalog\controller\extension\module\tvcmsbrandlist.php on line 46
+2020-12-03 15:34:53 - PHP Notice:  Undefined offset: 3 in D:\WinNMP\WWW\catalog\controller\extension\module\tvcmsbrandlist.php on line 46
+2020-12-03 15:34:53 - PHP Notice:  Undefined offset: 3 in D:\WinNMP\WWW\catalog\controller\extension\module\tvcmsbrandlist.php on line 46
+2020-12-03 15:34:53 - PHP Notice:  Undefined offset: 3 in D:\WinNMP\WWW\catalog\controller\extension\module\tvcmsbrandlist.php on line 46
+2020-12-03 15:34:53 - PHP Notice:  Undefined offset: 3 in D:\WinNMP\WWW\catalog\controller\extension\module\tvcmsbrandlist.php on line 46
+2020-12-03 15:34:53 - PHP Notice:  Undefined offset: 3 in D:\WinNMP\WWW\catalog\controller\extension\module\tvcmsbrandlist.php on line 46
+2020-12-03 15:34:53 - PHP Notice:  Undefined offset: 3 in D:\WinNMP\WWW\catalog\controller\extension\module\tvcmsblog.php on line 9
+2020-12-03 15:34:53 - PHP Notice:  Undefined offset: 3 in D:\WinNMP\WWW\catalog\controller\extension\module\tvcmsblog.php on line 10
+2020-12-03 15:34:53 - PHP Notice:  Undefined offset: 3 in D:\WinNMP\WWW\catalog\controller\extension\module\tvcmsblog.php on line 11
+2020-12-03 15:34:54 - PHP Notice:  Undefined offset: 3 in D:\WinNMP\WWW\catalog\controller\common\tvcmsfooterlogo.php on line 22
+2020-12-03 15:34:54 - PHP Notice:  Undefined offset: 3 in D:\WinNMP\WWW\catalog\controller\common\tvcmsfooterlogo.php on line 25
+2020-12-03 15:34:54 - PHP Notice:  Undefined offset: 3 in D:\WinNMP\WWW\catalog\controller\common\tvcmssocialicon.php on line 29
+2020-12-03 16:56:25 - PHP Warning:  unlink(D:/WinNMP/storage/cache/cache.product.latest.3.0.1.11.1607013287): Permission denied in D:\WinNMP\WWW\system\library\cache\file.php on line 17
+2020-12-03 17:51:23 - PHP Warning:  unlink(D:/WinNMP/storage/cache/cache.catalog.language.1607021482): No such file or directory in D:\WinNMP\WWW\system\library\cache\file.php on line 68
+2020-12-04 14:48:54 - PHP Notice:  Undefined offset: 3 in D:\WinNMP\WWW\catalog\controller\extension\module\tvcmstestimonial.php on line 28
+2020-12-04 14:48:54 - PHP Notice:  Undefined offset: 3 in D:\WinNMP\WWW\catalog\controller\extension\module\tvcmstestimonial.php on line 31
+2020-12-04 14:48:55 - PHP Notice:  Undefined offset: 3 in D:\WinNMP\WWW\catalog\controller\extension\module\tvcmsbrandlist.php on line 46
+2020-12-04 14:48:55 - PHP Notice:  Undefined offset: 3 in D:\WinNMP\WWW\catalog\controller\extension\module\tvcmsbrandlist.php on line 46
+2020-12-04 14:48:55 - PHP Notice:  Undefined offset: 3 in D:\WinNMP\WWW\catalog\controller\extension\module\tvcmsbrandlist.php on line 46
+2020-12-04 14:48:55 - PHP Notice:  Undefined offset: 3 in D:\WinNMP\WWW\catalog\controller\extension\module\tvcmsbrandlist.php on line 46
+2020-12-04 14:48:55 - PHP Notice:  Undefined offset: 3 in D:\WinNMP\WWW\catalog\controller\extension\module\tvcmsbrandlist.php on line 46
+2020-12-04 14:48:55 - PHP Notice:  Undefined offset: 3 in D:\WinNMP\WWW\catalog\controller\extension\module\tvcmsbrandlist.php on line 46
+2020-12-04 14:48:55 - PHP Notice:  Undefined offset: 3 in D:\WinNMP\WWW\catalog\controller\extension\module\tvcmsbrandlist.php on line 46
+2020-12-04 14:48:55 - PHP Notice:  Undefined offset: 3 in D:\WinNMP\WWW\catalog\controller\extension\module\tvcmsbrandlist.php on line 46
+2020-12-04 14:48:55 - PHP Notice:  Undefined offset: 3 in D:\WinNMP\WWW\catalog\controller\extension\module\tvcmsblog.php on line 9
+2020-12-04 14:48:55 - PHP Notice:  Undefined offset: 3 in D:\WinNMP\WWW\catalog\controller\extension\module\tvcmsblog.php on line 10
+2020-12-04 14:48:55 - PHP Notice:  Undefined offset: 3 in D:\WinNMP\WWW\catalog\controller\extension\module\tvcmsblog.php on line 11
+2020-12-04 14:48:56 - PHP Notice:  Undefined offset: 3 in D:\WinNMP\WWW\catalog\controller\common\tvcmsfooterlogo.php on line 22
+2020-12-04 14:48:56 - PHP Notice:  Undefined offset: 3 in D:\WinNMP\WWW\catalog\controller\common\tvcmsfooterlogo.php on line 25
+2020-12-04 14:48:56 - PHP Notice:  Undefined offset: 3 in D:\WinNMP\WWW\catalog\controller\common\tvcmssocialicon.php on line 29
+2020-12-04 14:48:59 - PHP Notice:  Undefined offset: 3 in D:\WinNMP\WWW\catalog\controller\extension\module\tvcmstestimonial.php on line 28
+2020-12-04 14:48:59 - PHP Notice:  Undefined offset: 3 in D:\WinNMP\WWW\catalog\controller\extension\module\tvcmstestimonial.php on line 31
+2020-12-04 14:48:59 - PHP Notice:  Undefined offset: 3 in D:\WinNMP\WWW\catalog\controller\extension\module\tvcmsbrandlist.php on line 46
+2020-12-04 14:48:59 - PHP Notice:  Undefined offset: 3 in D:\WinNMP\WWW\catalog\controller\extension\module\tvcmsbrandlist.php on line 46
+2020-12-04 14:48:59 - PHP Notice:  Undefined offset: 3 in D:\WinNMP\WWW\catalog\controller\extension\module\tvcmsbrandlist.php on line 46
+2020-12-04 14:48:59 - PHP Notice:  Undefined offset: 3 in D:\WinNMP\WWW\catalog\controller\extension\module\tvcmsbrandlist.php on line 46
+2020-12-04 14:48:59 - PHP Notice:  Undefined offset: 3 in D:\WinNMP\WWW\catalog\controller\extension\module\tvcmsbrandlist.php on line 46
+2020-12-04 14:48:59 - PHP Notice:  Undefined offset: 3 in D:\WinNMP\WWW\catalog\controller\extension\module\tvcmsbrandlist.php on line 46
+2020-12-04 14:48:59 - PHP Notice:  Undefined offset: 3 in D:\WinNMP\WWW\catalog\controller\extension\module\tvcmsbrandlist.php on line 46
+2020-12-04 14:49:00 - PHP Notice:  Undefined offset: 3 in D:\WinNMP\WWW\catalog\controller\extension\module\tvcmsbrandlist.php on line 46
+2020-12-04 14:49:00 - PHP Notice:  Undefined offset: 3 in D:\WinNMP\WWW\catalog\controller\extension\module\tvcmsblog.php on line 9
+2020-12-04 14:49:00 - PHP Notice:  Undefined offset: 3 in D:\WinNMP\WWW\catalog\controller\extension\module\tvcmsblog.php on line 10
+2020-12-04 14:49:00 - PHP Notice:  Undefined offset: 3 in D:\WinNMP\WWW\catalog\controller\extension\module\tvcmsblog.php on line 11
+2020-12-04 14:49:00 - PHP Notice:  Undefined offset: 3 in D:\WinNMP\WWW\catalog\controller\common\tvcmsfooterlogo.php on line 22
+2020-12-04 14:49:00 - PHP Notice:  Undefined offset: 3 in D:\WinNMP\WWW\catalog\controller\common\tvcmsfooterlogo.php on line 25
+2020-12-04 14:49:01 - PHP Notice:  Undefined offset: 3 in D:\WinNMP\WWW\catalog\controller\common\tvcmssocialicon.php on line 29
+2020-12-04 15:18:54 - PHP Warning:  unlink(D:/WinNMP/storage/cache/cache.catalog.language.1607098732): No such file or directory in D:\WinNMP\WWW\system\library\cache\file.php on line 68
+2020-12-04 15:26:14 - PHP Warning:  count(): Parameter must be an array or an object that implements Countable in D:\WinNMP\WWW\system\library\template\Twig\Extension\Core.php on line 1266
+2020-12-04 16:12:50 - PHP Notice:  Undefined index: firstname in D:\WinNMP\WWW\catalog\controller\checkout\guest.php on line 164
+2020-12-04 16:12:50 - PHP Notice:  Undefined index: lastname in D:\WinNMP\WWW\catalog\controller\checkout\guest.php on line 168
+2020-12-04 16:12:50 - PHP Notice:  Undefined index: email in D:\WinNMP\WWW\catalog\controller\checkout\guest.php on line 172
+2020-12-04 16:12:50 - PHP Notice:  Undefined index: email in D:\WinNMP\WWW\catalog\controller\checkout\guest.php on line 172
+2020-12-04 16:12:50 - PHP Notice:  Undefined index: telephone in D:\WinNMP\WWW\catalog\controller\checkout\guest.php on line 176
+2020-12-04 16:12:50 - PHP Notice:  Undefined index: address_1 in D:\WinNMP\WWW\catalog\controller\checkout\guest.php on line 181
+2020-12-04 16:12:50 - PHP Notice:  Undefined index: city in D:\WinNMP\WWW\catalog\controller\checkout\guest.php on line 185
+2020-12-04 16:12:50 - PHP Notice:  Undefined index: country_id in D:\WinNMP\WWW\catalog\controller\checkout\guest.php on line 191
+2020-12-04 16:12:50 - PHP Notice:  Undefined index: country_id in D:\WinNMP\WWW\catalog\controller\checkout\guest.php on line 197

@@ -1,0 +1,37 @@
+{#
+{% if status_main_form %}
+	{% if status_main_title %} {{ tag_title }}{% endif %}
+	{% if status_main_short_description %} {{ tag_short_des }}{% endif %}
+{% endif %}
+
+{% if status_record_form %}
+	{% for tag_data in tablink_data %}
+		{% if status_title %} {{ tag_data['tvcmstags_title'] }} {% endif %}
+		{% if status_link %} {{ tag_data['tvcmstags_link'] }} {% endif %}
+	{% endfor %}
+{% endif %}
+#}
+<div class="container-fluid ttvcmstags ttvcms-all-tags">
+    <div class="container ttvtags">
+		{% if status_main_form %}
+		<div class="ttvcmstags-main-title-wrapper">
+			{% if status_main_title %}
+				<div class="ttvtags-main-title">{{ tag_title }}</div>
+			{% endif %}
+		</div>
+		{% endif %}
+		{% if status_record_form %}
+		<div class="ttvtags-slider-inner">
+            <div class="ttvtags-content-box">
+				{% for tag_data in tablink_data %}
+				<div class="ttvtags-wrapper-info">
+					{% if status_link %}<div class="ttvtags-title"><a href="{{ tag_data['tvcmstags_link'] }}">{% endif %}
+						<div>{% if status_title %}{{ tag_data['tvcmstags_title'] }}{% endif %}</div>
+					{% if status_link %}</a></div>{% endif %}
+				</div>
+				{% endfor %}
+			</div>
+		</div>
+		{% endif %}
+	</div>
+</div>

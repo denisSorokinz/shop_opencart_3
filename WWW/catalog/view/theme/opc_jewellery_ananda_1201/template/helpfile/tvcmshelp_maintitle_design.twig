@@ -1,0 +1,18 @@
+<div class='ttvcmsmain-title-wrapper'>
+	<div class="ttvcms-main-title">
+		{% if main_short_des %}
+			<div class='ttvmain-sub-title'>{{ main_short_des }}</div>
+		{% endif %}
+
+		{% if main_title %}
+			<div class='ttvmain-title'>{{ main_title }}</div>
+		{% endif %}
+		
+		{% if main_des %}
+			<div class='ttvmain-desc'>{{ main_des }}</div>
+		{% endif %}
+		{# {{% if main_img %}
+			<div class=''><img src="{{ main_img }}" alt="{{ main_img }}" /></div>
+		{% endif %} #}
+	</div>
+</div>

@@ -1,0 +1,23 @@
+<artical class="product-miniature js-product-miniature ttvfooter-product-slider col-xl-12 col-lg-12 col-md-12 col-sm-12 col-xs-12">
+	<div class="thumbnail-container ttvfooter-product-wrapper">
+		<div class="ttvmain-product-img-block col-xl-3 col-lg-3 col-md-4 col-sm-4 col-xs-3">
+			<a href="{{ product.href }}" class="product-thumbnail">
+				<img src="{{ product.smallimage }}" alt="{{ product.name }}" data-full-size-image-url="{{ product.smallimage }}">
+				<img class="ttvproduct-hover-img" src="{{ product.hoverimage }}" alt="{{ product.name }}" data-full-size-image-url="{{ product.smallimage }}">
+			</a>
+		</div>
+		<div class="product-description ttvmain-product-info-box col-xl-10 col-lg-9 col-md-9 col-sm-8 col-xs-9">
+			<div class="product-price-and-shipping ttvfooter-product-price">
+				<div class="product-title ttvfooter-product-title">
+					<a href="{{ product.href }}">{{ product.name }}</a>
+				</div>
+				<div class="ttvfooter-price-content">
+					{% if product.price %} {% if not product.special %} {{ product.price }} {% else %}
+					<span class="price ttvnew-price">{{ product.special }}</span> <span class="regular-price ttvold-price">{{ product.price }}</span> {% endif %} {% if product.tax %}
+					<span class="price-tax">{{ text_tax }} {{ product.tax }}</span> {% endif %} {% endif %}
+				</div>
+			</div>
+			{% include 'opc_jewellery_ananda_1201/template/helpfile/tvcmshelp_rating_design.twig' with {'rating': product.rating} %}
+	</div>
+	</div>
+</artical>

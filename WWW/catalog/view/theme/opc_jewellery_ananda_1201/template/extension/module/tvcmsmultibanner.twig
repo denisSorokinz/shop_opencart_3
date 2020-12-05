@@ -1,0 +1,76 @@
+{#
+{% if status_main_form %}
+{% if status_main_title %} {{ main_title }} {% endif %}
+{% if status_main_short_description %} {{ main_short_description }} {% endif %}
+{% if status_main_description %} {{ main_description }} {% endif %}
+{% if status_main_image %} {{ main_image }} {% endif %}
+{% endif %}
+{% if status_record_form %}
+{% for i in 1..num_services %}
+{% set cap = "tvcmsmultibanner_link_" ~ i %}
+{% if status_image_upload %}
+{{ tvcmsmultibanner_img_1 }}
+{% endif %}
+{% endfor %}
+{% endif %}
+#}
+{% if status_record_form %}
+<div class="ttvcmsmultibanners container-fluid">
+	<div class="ttvmultibanner">
+		<div class="ttvmultibanner-wrapper">
+			<div class="ttvmultibanner-wrapper-info">
+				<div class="tttvmultibanner-first-block">
+					{% if tvcmsmultibanner_status_1 %}
+					<div class="ttvmultibanner1-wrapper ttvmultibanner-wrapper-block col-sm-4">
+						<div class=" ttvmultibanner-1 ">
+							<a href="{{ tvcmsmultibanner_link_1 }}" title="This is Caption">
+										{% if status_image_upload %}
+											<div class="ttvbanner-hover-wrapper">
+												<div class="ttvbranner-hover-info-box"></div>
+												<div class="ttvbanner-hover"></div>
+												<img src='{{ tvcmsmultibanner_img_1 }}' class="img-responsive" alt="This is Caption">
+												<div class="ttvbanner-hover1"></div>
+											</div>
+										{% endif %}
+									</a>
+						</div>
+					</div>
+					{% endif %}
+					{% if tvcmsmultibanner_status_2 %}
+					<div class="ttvmultibanner2-wrapper ttvmultibanner-wrapper-block col-sm-4">
+						<div class=" ttvmultibanner-2 ">
+							<a href="{{ tvcmsmultibanner_link_2 }}" title="This is Caption">
+									{% if status_image_upload %}
+										<div class="ttvbanner-hover-wrapper">
+											<div class="ttvbranner-hover-info-box"></div>
+											<div class="ttvbanner-hover"></div>
+											<img src='{{ tvcmsmultibanner_img_2 }}' class="img-responsive" alt="This is Caption">
+											<div class="ttvbanner-hover2"></div>
+										</div>
+									{% endif %}
+								</a>
+						</div>
+					</div>
+					{% endif %}
+					{% if tvcmsmultibanner_status_3 %}
+					<div class="ttvmultibanner3-wrapper ttvmultibanner-wrapper-block col-sm-4">
+						<div class=" ttvmultibanner-3 ">
+							<a href="{{ tvcmsmultibanner_link_3 }}" title="This is Caption">
+									{% if status_image_upload %}
+										<div class="ttvbanner-hover-wrapper">
+											<div class="ttvbranner-hover-info-box"></div>
+											<div class="ttvbanner-hover"></div>
+											<img src='{{ tvcmsmultibanner_img_3 }}' class="img-responsive" alt="This is Caption">
+											<div class="ttvbanner-hover3"></div>
+										</div>
+									{% endif %}
+								</a>
+						</div>
+					</div>
+					{% endif %}
+				</div>
+			</div>
+		</div>
+	</div>
+</div>
+{% endif %}

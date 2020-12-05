@@ -1,0 +1,47 @@
+{#
+{% if status_link %} {{ tvcmssingleblock_link }}{% endif %}
+{% if status_image %} {{ image }}{% endif %}
+{% if status_title %} {{ title }}{% endif %}
+{% if status_shortdescription %} {{ short_description }}{% endif %}
+{% if status_description %} {{ description }}{% endif %}
+{% if status_buttoncaption %} {{ button_caption }}{% endif %}
+{% if status_main_image %} {{ main_image }} {% endif %}
+{% if status_main_title %} {{ main_title }} {% endif %}
+{% if status_main_sub_title %} {{ main_short_description }} {% endif %}
+{% if status_main_description %} {{ main_description }} {% endif %}
+#}
+<div class="container-fluid ttvcmssingle-block">
+	<div class="container ttvsingle-block">
+		<div class="ttvsingle-block-main-title-wrapper">
+            <div class="ttvcmsmain-title-wrapper">
+                <div class="ttvcms-main-title">
+                    {% if status_main_sub_title %}<div class="ttvmain-sub-title">{{ main_short_description }}</div>{% endif %}
+                    {% if status_main_title %}<div class="ttvmain-title">{{ main_title }}</div>{% endif %}
+                    {% if status_main_description %}<div class="ttvmain-desc">{{ main_description }}</div>{% endif %}
+                </div>
+            </div>
+		</div>
+		<div class="ttvsingle-block-image-info-wrapper">
+			{% if status_image %}
+			<div class="ttv-single-block-image-wrapper">
+				<div class="ttv-single-block-image"><img src="{{ image }}" alt="{{ image }}"></div>
+				</div>
+				{% endif %}
+				{% if status_title or status_shortdescription or status_description or status_buttoncaption%}
+				<div class="ttvsingle-block-info-box">
+					{% if status_title %}<div class="ttvsingle-block-title">{{ title }}</div>{% endif %}
+					{% if status_shortdescription %} <div class="ttvsingle-block-sub-desc">{{ short_description }}</div>{% endif %}
+					{% if status_description %}<div class="ttvsingle-block-desc">{{ description }}</div>{% endif %}
+					{% if status_buttoncaption %}
+					<div class="ttvsingle-bolck-btn-link-wrapper">
+						{% if status_link %}<a href="{{ tvcmssingleblock_link }}" class="ttvsingle-bolck-btn-link">{% endif %}
+							{% if status_buttoncaption %}<button class="ttvsingle-bolck-btn">{{ button_caption }}</button>{% endif %}
+						{% if status_link %}</a>{% endif %}
+					</div>
+					{% endif %}
+				</div>
+				{% endif %}
+			</div>
+	</div>
+</div>
+

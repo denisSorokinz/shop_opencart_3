@@ -1,0 +1,36 @@
+<div class="ttvcmsspecial-product container-fluid">
+	<div class="ttvspecial-product-wrapper-box container">
+		<div class="ttvspecial-product-all-box">
+			<div class="ttvspecial-product-offer-banner">
+				<div class="ttvspecial-product-content ">
+					<div class="ttvall-block-box-shadows">
+						<div class="ttvspecial-main-title-wrapper">
+							{% if status_special_main_form %}
+							<div class="ttvcmsmain-title-wrapper">
+								{% include 'opc_jewellery_ananda_1201/template/helpfile/tvcmshelp_maintitle_design.twig' with {'main_title': special_hometitle,'main_short_des': special_homesubtitle,'main_des': special_homedes,'main_img': special_img } %}
+							</div>
+							{% endif %}
+							<div class="ttvspecial-pagination-wrapper ttv-pagination-wrapper">
+								<div class="ttvspecial-pagination">
+									<div class="ttvcmsspecial-pagination">
+										<div class="ttvcmsspecial-next-pre-btn ttvcms-next-pre-btn">
+											<div class="ttvcmsspecial-prev" data-parent="ttvcmsspecial-product"><i class="fa fa-angle-left" aria-hidden="true"></i></div>
+											<div class="ttvcmsspecial-next" data-parent="ttvcmsspecial-product"><i class="fa fa-angle-right" aria-hidden="true"></i></div>
+										</div>
+									</div>
+								</div>
+							</div>
+						</div>
+						{% if special_products %}
+						<div class="ttvspecial-product">
+							<div class="products owl-theme owl-carousel ttvspecial-product-wrapper ttvproduct-wrapper-content-box">
+								{% for product in special_products %} {% include 'opc_jewellery_ananda_1201/template/extension/module/tvcmshelp_specialproduct_design.twig' with {'product': product} %} {% endfor %}
+							</div>
+						</div>
+						{% endif %}
+					</div>
+				</div>
+			</div>
+		</div>
+	</div>
+</div>

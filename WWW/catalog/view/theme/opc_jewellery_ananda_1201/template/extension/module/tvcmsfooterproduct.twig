@@ -1,0 +1,76 @@
+<!-- start footer product -->
+<div class="ttvcmsmain-all-product container-fluid ttvmain-box-layout-content-wrapper">
+	<div class="ttvcmsmain-all-product">
+		<div class="container ttvmain-all-product">
+			<div class="ttvmain-product-all-wrapper-box">
+				<div class="col-xl-4 col-lg-4 col-md-6 col-sm-6 col-xs-12 ttvcmsmain-featured-product">
+					<div class="ttvfooter-product-title-product">
+						<div class="ttvmain-product-title">
+							{% if title_featureproduct%}
+							<div class="ttvmain-product-title-content">
+								{{ title_featureproduct }}
+							</div>
+							{% endif %}
+						</div>
+						{% if setting.tvcmstabproducts_pro_fea.status %}
+						<div class="ttvmain-all-product-wrapper ttvfooter-featured-prod-slider">
+							<div class="ttvmain-featured-product-wrapper">
+								<div class="ttvmain-featured-product-wrapper-info-box">
+									<div class="ttvmain-footer-tab-prod-slider col-xl-12 col-lg-12 col-md-12 col-sm-12 col-xs-12">
+										{% for product in feature_tab_products %}
+										{% include 'opc_jewellery_ananda_1201/template/extension/module/tvcmshelp_footerproduct_design.twig' with {'product': product} %}
+										{% endfor %}
+									</div>
+								</div>
+							</div>
+						</div>
+						{% endif %}
+					</div>
+				</div>
+				<div class="col-xl-4 col-lg-4 col-md-6 col-sm-6 col-xs-12 ttvcmsmain-featured-product">
+					<div class="ttvfooter-product-title-product">
+						{% if title_newproduct %}
+						<div class="ttvmain-product-title">
+							<div class="ttvmain-product-title-content">
+								{{ title_newproduct }}
+							</div>
+						</div>
+						{% endif %}
+						{% if setting.tvcmstabproducts_pro_new.status %}
+						<div class="ttvmain-all-product-wrapper ttvfooter-featured-prod-slider">
+							<div class="ttvmain-featured-product-wrapper">
+								<div class="ttvmain-featured-product-wrapper-info-box">
+									<div class="ttvmain-footer-tab-prod-slider col-xl-12 col-lg-12 col-md-12 col-sm-12 col-xs-12">
+										{% for product in new_products %} {% include 'opc_jewellery_ananda_1201/template/extension/module/tvcmshelp_footerproduct_design.twig' with {'product': product} %} {% endfor %} </div>
+								</div>
+							</div>
+						</div>
+						{% endif %}
+					</div>
+				</div>
+				<div class="col-xl-4 col-lg-4 col-md-6 col-sm-6 col-xs-12 ttvcmsmain-featured-product">
+					<div class="ttvfooter-product-title-product">
+						{% if title_bestproduct %}
+						<div class="ttvmain-product-title">
+							<div class="ttvmain-product-title-content">
+								{{ title_bestproduct }}
+							</div>
+						</div>
+						{% endif %}
+						{% if setting.tvcmstabproducts_pro_best.status %}
+						<div class="ttvmain-all-product-wrapper ttvfooter-featured-prod-slider">
+							<div class="ttvmain-featured-product-wrapper">
+								<div class="ttvmain-featured-product-wrapper-info-box">
+									<div class="ttvmain-footer-tab-prod-slider col-xl-12 col-lg-12 col-md-12 col-sm-12 col-xs-12">
+										{% for product in best_products %} {% include 'opc_jewellery_ananda_1201/template/extension/module/tvcmshelp_footerproduct_design.twig' with {'product': product} %} {% endfor %}
+									</div>
+								</div>
+							</div>
+						</div>
+						{% endif %}
+					</div>
+				</div>
+			</div>
+		</div>
+	</div>
+</div>
